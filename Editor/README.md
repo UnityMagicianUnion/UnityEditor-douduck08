@@ -1,11 +1,3 @@
-## Attribute
-
-### InvokeButtonAttribute
-
-### ReadOnlyAttribute
-
-## Editor
-
 ### ShortCutLockInspector
 增加快捷鍵 ctrl+L 用於鎖定 Inspector
 
