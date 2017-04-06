@@ -5,6 +5,7 @@
  - Attribute - Custom Attribute 程式碼
    - Editor - Custom Attribute 所使用的 Editor 或 Drawer 程式碼
  - Editor - 其他 Custom Editor 程式碼
+ - Others - 其他非 Editor 小工具
 
 ### 程式命名規則
  - 類別採用 Pascal 命名法 (大駝峰式命名法)，首字母為大寫。
